@@ -3,7 +3,7 @@ earnings-announcements-scraper
 
 ### About
 
-Scrape US Earnings Calendar for the next five following working days on [biz.yahoo.com](http://biz.yahoo.com/research/earncal/today.html) and write scraped data to `output.csv` file. Scrape data such as: `Company`, `Symbol`, `Time`, `Date`.
+Scrape US Earnings Calendar for the next five following working days on [biz.yahoo.com](http://biz.yahoo.com/research/earncal/today.html) and write scraped data to `output.csv` file. Scrape data such as: `Company`, `Symbol`, `Time` and `Date`.
 
 ### Screenshots
 
@@ -16,7 +16,7 @@ Scrape US Earnings Calendar for the next five following working days on [biz.yah
 
 ### Requirements
 
-earnings-announcements-scraper uses [requests](http://docs.python-requests.org/en/latest/) and [lxml](http://lxml.de/).
+`earnings-announcements-scraper` uses [requests](http://docs.python-requests.org/en/latest/) and [lxml](http://lxml.de/).
 
 
 ### Installation and Running
