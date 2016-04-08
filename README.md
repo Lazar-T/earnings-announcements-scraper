@@ -16,7 +16,7 @@ Scrape US Earnings Calendar for the next five following working days on [biz.yah
 
 ### Requirements
 
-`earnings-announcements-scraper` uses [requests](http://docs.python-requests.org/en/latest/) and [lxml](http://lxml.de/).
+**earnings-announcements-scraper** uses [requests](http://docs.python-requests.org/en/latest/) and [lxml](http://lxml.de/).
 
 
 ### Installation and Running
